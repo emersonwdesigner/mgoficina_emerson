@@ -64,7 +64,6 @@
     <string name="nao_itens">Não há itens!&#160;;&#160;(</string>
     <string name="vazio">Vazio</string>
     <string name="local">Localização</string>
-    <string name="defeito">Defeito</string>
     <string name="defeito_ed">Defeito</string>
     <string name="acessorios">Acessórios</string>
     <string name="trabalhos">Trabalhos</string>
@@ -163,7 +162,6 @@
     <string name="foi_enviado_email">Foi enviado um código para o email:</string>
     <string name="foi_enviado_senha_email">A sua senha foi enviada para o email:</string>
     <string name="erro_enviar_email">Houve um erro ao enviar email! </string>
-    <string name="erro_enviar_email">Esse email já existe! </string>
     <string name="erro_email_existe">Esse email já existe! </string>
     <string name="escolher_outro_email">Escolher outro</string>
     <string name="title_activity_recupera_dados">Recuperar Dados</string>
